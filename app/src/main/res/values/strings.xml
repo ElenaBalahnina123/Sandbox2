@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+    <string name="high_score_key">key</string>
+</resources>
